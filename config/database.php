@@ -56,7 +56,7 @@ return [
             'driver' => 'mysql',
             'host' => env('DB_HOST', 'localhost'),
             'port' => env('DB_PORT', '3306'),
-            'database' => 'quanlithongtin',
+            'database' => 'quanlisinhvien',
             'username' => 'root',
             'password' => '',
             'charset' => 'utf8',
